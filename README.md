@@ -58,7 +58,7 @@ Built automated workflows with Microsoft Power Automate, extended an internal ch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-owolabielizabeth-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/owolabielizabeth/)
 [![Email](https://img.shields.io/badge/Email-owolabielizabeth2@gmail.com-red?style=flat&logo=gmail)](mailto:owolabielizabeth2@gmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-owolabielizabeth2-orange?style=flat&logo=gitlab)](https://gitlab.com/owolabielizabeth2)## Hi there 👋
+[![GitLab](https://img.shields.io/badge/GitLab-owolabielizabeth2-orange?style=flat&logo=gitlab)](https://gitlab.com/owolabielizabeth2)
 
 <!--
 **elizabethowolabi/elizabethowolabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
